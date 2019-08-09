@@ -12,4 +12,8 @@ Context
 - [11.闭包作用域变量提升](11.闭包作用域变量提升.md)
 - [12.闭包this面向对象](12.闭包this面向对象.md)
 - [13.复习](13.复习.md)
+- [14.面向对象](14.面向对象.md)
+- [15.面向对象](15.面向对象.md)
+- [16.apply,call,bind](16.apply,call,bind.md)
+- [17.ajax-json-bootstrap-数组排序深入](17.ajax-json-bootstrap-数组排序深入.md)
 

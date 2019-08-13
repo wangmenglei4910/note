@@ -16,4 +16,7 @@ Context
 - [15.面向对象](15.面向对象.md)
 - [16.apply,call,bind](16.apply,call,bind.md)
 - [17.ajax-json-bootstrap-数组排序深入](17.ajax-json-bootstrap-数组排序深入.md)
+- [18.面向对象(oop)和this综合复习](18.面向对象(oop)和this综合复习.md)
+- [19.正则](19.正则.md)
+- [20.正则方法](20.正则方法.md)
 
